@@ -1,3 +1,5 @@
 Hallo, nama saya Rizal
 NIM 20650052
 Kelas B
+Prodi : Teknik Informatika
+Semester : 8
